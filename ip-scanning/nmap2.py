@@ -1,13 +1,3 @@
-# 192.168.0.10 has hostname BRCM-LVG
-# 192.168.0.12 has no reverse DNS entry
-# 192.168.0.14 has no reverse DNS entry
-# 192.168.0.15 has no reverse DNS entry
-# 192.168.0.17 has no reverse DNS entry
-# 192.168.0.19 has no reverse DNS entry
-# 192.168.0.20 has no reverse DNS entry
-# 192.168.0.21 has no reverse DNS entry
-# 192.168.0.24 has no reverse DNS entry
-
 import nmap
 
 def detect_os(target_ip):
