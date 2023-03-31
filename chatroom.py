@@ -42,7 +42,7 @@ def main():
             usernames.append(username)
             if username in usernames:
                 not username_right
-                print('Rainise bemm on sitaks gei')
+                print('Username on kasutusel juba')
             
         client = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
